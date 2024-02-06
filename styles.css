@@ -1,0 +1,295 @@
+
+
+#navigation{
+	border-radius:none;
+	background-color:whitesmoke;
+	color:white;
+	height:100px;
+
+}
+
+
+
+#navigation li{
+	list-style-type:none;
+	display:inline-block;
+	margin-top:40px;
+	margin-left:10%;
+	font-size:18px;
+}
+
+
+a:hover{
+	color:white;
+}
+
+a:active{
+	color:white;
+}
+
+#main-h1{
+	font-size:18px;
+	line-height:50px;
+	
+	
+}
+
+#main{
+	width:100%;
+	height:600px;
+}
+
+#illustration{
+	float:right;
+}
+
+#main-h2{
+	text-align:center;
+}
+
+#header ul{
+	margin-left:10%;
+}
+
+#app1{
+	
+	padding:10%;
+}
+
+#main-button{
+	display:inline-block;
+	margin-top:10%;
+	background-color:black;
+	text-align:center;
+	width:200px;
+}
+
+#app1 h1{
+	font-size:40px;
+}
+
+#app1 p{
+	margin-top:20%;
+	font-size:18px;
+	line-height:50px;
+}
+
+#app1 button{
+	margin-top:20%;
+	background-color:black;
+}
+
+#app2{
+   padding:10%;
+}
+
+#app2 img{
+	height:700px;
+
+}
+
+#app3 img{
+	padding:10%;
+	width:100%;
+}
+
+#app4{
+	padding:5%;
+}
+
+#app4 p{
+	line-height:50px;
+	padding-top:10%;
+	font-size:18px;
+}
+
+#app4 button{
+	background-color:black;
+
+	margin-top:10%;
+}
+
+#app6 img{
+	height:500px;
+}
+
+
+
+#app5{
+	padding:10%;
+}
+
+#app5 p{
+	padding-top:10%;
+	line-height:50px;
+	font-size:18px;
+
+}
+
+#app5 button{
+	margin-top:10%;
+	background-color:black;
+}
+
+#app8 p{
+	padding-top:10%;
+	line-height:50px;
+	font-size:18px;
+
+}
+
+#app8 button{
+	background-color:black;
+	margin-top:10%;
+}
+
+#app7 img{
+	height:400px;
+}
+
+#casestudies{
+	margin-top:10%;
+}
+
+#details p{
+	font-size:18px;
+}
+
+footer{
+	background-color:black;
+	height:200px;
+}
+
+#yogatopia{
+	padding:10%;
+}
+
+#details{
+	margin:4%;
+}
+
+#casestudy h2{
+	margin-top:5%;
+}
+
+#casestudy p{
+	font-size:18px;
+}
+
+#screenshots{
+	width:75%;
+	margin:3%;
+	margin-left:10%;
+
+}
+
+#secondaryresearchyogatopia{
+	margin:4%;
+}
+
+#screener{
+	margin:4%;
+	display:inline-block;
+	margin-left:10%;
+}
+
+#affinitydiagram-2{
+	width:75%;
+	margin:4%;
+	margin-left:15%;
+	display:inline-block;
+	
+}
+
+#userpersona{
+	width:75%;
+	margin:4%;
+	margin-left:15%;
+}
+
+#ideate p{
+	padding-top:4%;
+
+}
+
+#howmightwe p{
+	padding-top:4%;
+}
+
+#interviews{
+	margin-top:10%;
+}
+
+#persona{
+	margin-top:10%;
+}
+
+#userstoriesheading{
+	margin-bottom:4%;
+}
+
+#userstories p{
+	margin-top:5%;
+}
+
+#informationarchitecture p{
+	margin-top:5%;
+}
+
+#informationarchitecture img{
+	margin:4%;
+	margin-left:10%;
+}
+
+#testing{
+	margin-top:10%;
+}
+
+#testing-text{
+	margin-top:4%;
+}
+
+#wireframes-text{
+	margin-top:4%;
+}
+
+#designsystem{
+	width:75%;
+	margin:4%;
+	margin-left:15%;
+}
+
+#designsystem-heading{
+	margin-top:10%;
+}
+
+#wireframes-heading{
+	margin-top:10%;
+}
+
+#usabilitytesting-heading{
+	margin-top:10%;
+}
+
+#wireframes{
+	margin:4%;
+	margin-left:7%;
+}
+
+#usabilitytesting{
+	margin-top:4%;
+	margin-left:10%;
+}
+
+#codewise{
+	font-size:18px;
+}
+
+#house2home{
+	padding:10%;
+}
+
+#problem{
+	padding:4%;
+	border-left:1rem solid teal;
+}
