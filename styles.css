@@ -2,11 +2,26 @@
 
 #navigation{
 	border-radius:none;
-	background-color:whitesmoke;
+	background-color:white;
+	drop-shadow:2px 2px 8px 4px black;
+	position:fixed;
 	color:white;
+	width:100%;
 	height:100px;
+	z-index:2;
 
 }
+
+
+button{
+	height:50px;
+	width:50%;
+	text-align:center;
+	border-radius:none;
+	color:white;
+	font-size:18px;
+}
+
 
 
 
@@ -30,6 +45,7 @@ a:active{
 #main-h1{
 	font-size:18px;
 	line-height:50px;
+	margin-top:10%;
 	
 	
 }
@@ -58,10 +74,10 @@ a:active{
 
 #main-button{
 	display:inline-block;
-	margin-top:10%;
+	margin-top:20%;
 	background-color:black;
 	text-align:center;
-	width:200px;
+	
 }
 
 #app1 h1{
@@ -166,14 +182,33 @@ footer{
 
 #details{
 	margin:4%;
+	font-family: 'DM Serif Text', serif;
+}
+
+#details p{
+	font-family:'Montserrat', sans-serif;
 }
 
 #casestudy h2{
 	margin-top:5%;
+	font-family: 'DM Serif Text', serif;
 }
 
 #casestudy p{
 	font-size:18px;
+	font-family:'Montserrat', sans-serif;
+	
+}
+
+#yogatopiacasestudy p{
+	font-family:'Poppins', sans-serif;
+	font-size:18px;
+}
+
+#yogatopiacasestudy h2{
+	font-family:'Poppins', sans-serif;
+	margin-top:10%;
+	margin-bottom:3%;
 }
 
 #screenshots{
@@ -201,9 +236,14 @@ footer{
 	
 }
 
+.poppins{
+	font-family:'Poppins', sans-serif;
+}
+
 #userpersona{
 	width:75%;
 	margin:4%;
+	margin-top:5%;
 	margin-left:15%;
 }
 
@@ -222,6 +262,7 @@ footer{
 
 #persona{
 	margin-top:10%;
+	margin-bottom:4%;
 }
 
 #userstoriesheading{
@@ -293,3 +334,156 @@ footer{
 	padding:4%;
 	border-left:1rem solid teal;
 }
+
+#ally{
+	margin:4%;
+	
+}
+
+.header{
+	text-align:center;
+	margin-bottom:4%;
+	padding-top:10%;
+  }
+
+#enhance{
+	font-size:40px;
+	padding:1%;
+	font-weight:bold;
+	font-family: 'DM Serif Text', serif;
+}
+
+#h2hcollage{
+	margin:4%;
+	margin-left:10%;
+
+}
+
+#map{
+	margin:4%;
+	margin-left:20%;
+}
+
+#sketches{
+	width:75%;
+	margin:4%;
+	margin-left:25%;
+}
+
+#competitiveanalysis{
+	margin:4%;
+	margin-left:10%;
+}
+
+#h2htesting{
+	margin:4%;
+	margin-left:10%;
+}
+
+#spiritcasestudy{
+/*   text-align:center;*/
+	margin:10%;
+	margin-top:15%;
+
+}
+
+#spirit-details{
+	margin-left:10%;
+}
+
+#spirit-details p{
+	font-size:18px;
+}
+
+.spiritcontainer{
+	padding:10%;
+}
+
+.spiritcontainer p{
+	font-size:18px;
+	line-height:50px;
+	margin:4%;
+	
+}
+
+.spiritcontainer h2{
+	font-size:40px;
+	line-height:70px;
+	font-family: 'Elsie', serif;
+}
+
+#marketresearch{
+	margin-top:4%;
+}
+
+#container2{
+	margin-top:-10%;
+}
+
+#container2 h2{
+	
+}
+
+#container2 p{
+	margin-top:50%;
+}
+
+#container3 h2{
+	text-align:center;
+	margin-top:-10%;
+}
+
+#container3 p{
+	text-align:center;
+
+}
+
+.spirit-heading{
+	text-align:center;
+	font-family: 'Elsie', serif;
+}
+
+#ca_screenshots{
+	margin-left:15%;
+}
+
+#designsystem_screenshots{
+	margin-left:15%;
+	width:75%;
+}
+
+#designsystem{
+	margin-top:15%;
+}
+
+#userflows-heading{
+	margin-top:20%;
+}
+
+#userflows_screenshots{
+	margin-top:10%;
+	margin-left:20%;
+	width:75%;
+}
+
+#spiritwireframes{
+	margin-top:15%;
+}
+
+#spiritwireframes_screenshots{
+	margin-left:15%;
+	margin-top:10%;
+}
+
+#prototype-heading{
+	margin-top:10%;
+}
+
+#spiritbutton{
+	width:300px;
+	margin-top:4%;
+	margin-left:40%;
+	color:white;
+	background-color:red;
+}
+
